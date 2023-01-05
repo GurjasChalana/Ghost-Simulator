@@ -1,0 +1,2 @@
+Hey... there it's been quite a semester hasn't it. Now we are back to finish it off with this fantastic final project. My name is Gurjas Chalana and my partner Abdul Hadi. This combines our prexisting knowledge that we learned and mastered with our other assignments and tutorials, 
+and now we combine with multithreading to create a simulation for you to see! This file can be compiled using make on our makfile, which creates an executable called "a5", which can be ran by typing "./a5". ! Enjoy :)
